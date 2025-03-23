@@ -664,4 +664,4 @@ Other Commands:
     await interaction.response.send_message(embed=embed, ephemeral=True)
     return
 
-bot.run(token)
+bot.run(MTM1MjgzMTYxMTQ4NTU1NjgxNw.GS0nk4.4g2UXxdbbvVENFm3SohAu5ZEu5a4IpLXKPAkzI)
